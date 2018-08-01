@@ -55,6 +55,10 @@ a:hover {
   padding-left: 40px;
 }
 
+.text-lighty-left{
+   padding-left: 3px;
+}
+
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
